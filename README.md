@@ -1,2 +1,2 @@
-# LGM_DS
+# LGM_DS_BeginnerLevel
 Internship: Data Science
